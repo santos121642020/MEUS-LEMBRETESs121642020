@@ -1,0 +1,153 @@
+﻿<meta charset="utf-8">
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<title>UNIVERSO ONLINE</title>
+<link rel="sortcut icon" href="https://creazilla-store.fra1.digitaloceanspaces.com/emojis/42143/red-circle-emoji-clipart-md.png" type="image/gif" />
+</head>
+<body>
+<meta name="author" content="santos.12164@hotmail.com">
+<meta name="description" content="UNIVERSO ONLINE">
+<meta name="keywords" content="UNIVERSO ONLINE,UNIVERSO,ONLINE">
+<center>
+<!---------------------------------------------------------------------->
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {margin:0;}
+.navbar {
+  overflow: hidden;
+  background-color: #0404B4;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+.navbar a {
+  float: left;
+  display: block;
+  color: #3ADF00;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+.navbar a:hover {
+  background: #3ADF00;
+  color: #0404B4;
+}
+.main {
+  padding: 16px;
+  margin-top: 30px;
+  height: 500px; /* Used in this example to enable scrolling */
+}
+</style>
+</head>
+<body>
+<div class="navbar">
+
+  <a href="TV/1 - Copia.html">TV</a>
+  <a href="FILME/1 - Copia.html">FILMES</a>
+  <a href="PORNO/1 - Copia.html">PORNO</a>
+  <a href="HTML/1 - Copia.html">HTML</a>
+  <a href="VIDEO/1 - Copia.html">VIDEOS</a>
+
+
+</div>
+<div class="main">
+
+
+  <h1>Fixed Top Menu</h1>
+  <h2>Scroll this page to see the effect</h2>
+<!---------------------AVISO---SUSPENSSE---------------------->
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {font-family: Arial, Helvetica, sans-serif;}
+
+.callout {
+  position: fixed;
+  bottom: 135px;
+  right: 40px;
+  margin-left: 20px;
+  max-width: 350px;
+}
+
+.callout-header {
+  padding: 25px 25px;
+  background: #DF0101;
+  font-size: 30px;
+  color: #D7DF01;
+}
+
+.callout-container {
+  padding: 15px;
+  background-color: #3ADF00;
+  color: black
+}
+
+.closebtn {
+  position: absolute;
+  top: 1px;
+  right: 15px;
+  color: white;
+  font-size: 70px;
+  cursor: pointer;
+}
+
+.closebtn:hover {
+  color: lightgrey;
+}
+</style>
+</head>
+<body>
+
+<div class="callout">
+  <div class="callout-header"><h2>ATENÇÃO</h2></div>
+  <span class="closebtn" onclick="this.parentElement.style.display='none';">X</span>
+  <div class="callout-container">
+BEM VINDOS, QUERIA LEMBRAR QUE CONTÉM MATERIAL PORNOGRAFICO, PROIBIDO PARA MENORES DE 18 ANOS 🔞
+    <p>DE ACORDO COM A<a href="https://www.jusbrasil.com.br/busca?q=art.+241+do+estatuto+da+crian%C3%A7a+e+do+adolescente+-+lei+8069%2F90" target="_blank">Lei nº 8.069 de 13 de Julho de 1990</a></p>
+  </div>
+</div>
+
+</body>
+</html>
+<!---------------------------------------------------------------->
+<!DOCTYPE html>
+<html>
+<title>W3.CSS</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<body>
+
+<div class="w3-container">
+
+  <span class="w3-tag w3-xxlarge w3-padding w3-orange w3-center">
+    <strong>
+<h2>ATENÇÃO</h2>
+BEM VINDOS, QUERIA LEMBRAR QUE CONTÉM MATERIAL PORNOGRÁFICO, PROIBIDO PARA MENORES DE 18 ANOS 🔞
+    </strong>
+  </span>
+</div>
+
+</body>
+</html> 
+<!-------------------------------------------------------->
+
+</div>
+</body>
+</html>
+<!-------------------------WHATZAPP--------------------------------->
+<style> #imagem_whats{position:fixed;right:0;bottom:0;display:block;cursor:pointer;z-index:9999999;float:right} #imagem_whats2{position:fixed;right:0;bottom:0;display:block;cursor:pointer;z-index:9999999;float:right;display:none} @media only screen and (max-width: 999px) and (min-width: 100px){#imagem_whats{display:none}#imagem_whats2{display:block}}</style><img id="imagem_whats" src="https://www.ellodigital.com.br/images/whatsapp.png" onClick="window.open('https://web.whatsapp.com/send?phone=+5585988885153&amp;text=Olá!SANTOS, ❤️ SEU SITE E GOSTARIA DE DIZER QUE ...', '_blank');"><img id="imagem_whats2" src="https://www.ellodigital.com.br/images/whatsapp.png" onClick="window.open('https://api.whatsapp.com/send?phone=+556200000000&amp;text=Olá!SANTOS, QUERIA FALAR QUE...', '_blank');"><div class="preloader"> <div class="preloaderimg"></div></div>
+<!---------------------------------------------------------------------->
+<p>©<br>FALE COMIGO<BR/><a href="mailto:santos.12164@hotmail.com?Subject=OI%20SANTOS,%20GOSTARIA%20DE%20FALAR%20SOBRE%20SEU%20SITE...https://santos12164hotmail.github.io/IN-CIO-GERAL-SANTOS12164-UNIVERSO-ONLINE-/" target="_top">santos.12164@hotmail.com</a>
+<br/></p></h6>
+<h4>FIM</h4>
+</center>
+</body>
+</html><span id='FIM'></span>
+<!----------------------------------
